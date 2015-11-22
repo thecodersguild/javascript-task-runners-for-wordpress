@@ -1,1 +1,1 @@
-# JavaScript Task Runners for WordPress Development
+# Using JavaScript Task Runners for WordPress Development
